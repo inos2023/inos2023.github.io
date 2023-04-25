@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -9,3 +10,22 @@
     <copyright>Copyright © 2008–2021, Steve Francia and the Hugo Authors; All rights reserved.</copyright><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
+=======
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>我的全新 Hugo 网站</title>
+        <link>http://localhost/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 25 Apr 2023 03:32:14 &#43;0000</lastBuildDate>
+            <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>http://localhost/posts/first_post/</link>
+    <pubDate>Tue, 25 Apr 2023 03:32:14 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost/posts/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
+>>>>>>> Stashed changes

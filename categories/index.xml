@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -9,3 +10,12 @@
     <copyright>Copyright © 2008–2021, Steve Francia and the Hugo Authors; All rights reserved.</copyright><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
+=======
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - 我的全新 Hugo 网站</title>
+        <link>http://localhost/categories/</link>
+        <description>Categories - Category - 我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="http://localhost/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>
+>>>>>>> Stashed changes
